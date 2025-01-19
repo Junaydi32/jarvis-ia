@@ -1,3 +1,3 @@
 # jarvis ia
 
-c'est une ia
+c'est une ia par junaydi
